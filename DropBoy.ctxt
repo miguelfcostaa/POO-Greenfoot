@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DropBoy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Drop\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ getWaterB()
+comment2.params=wb
+comment2.target=void\ setWaterB(int)
+comment3.params=wb
+comment3.target=void\ addWaterB(int)
+comment4.params=wb
+comment4.target=void\ removeWaterB(int)
+comment5.params=
+comment5.target=DropBoy()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

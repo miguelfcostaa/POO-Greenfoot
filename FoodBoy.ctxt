@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FoodBoy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Food\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ getFoodB()
+comment2.params=fb
+comment2.target=void\ setFoodB(int)
+comment3.params=fb
+comment3.target=void\ addFoodB(int)
+comment4.params=fb
+comment4.target=void\ removeFoodB(int)
+comment5.params=
+comment5.target=FoodBoy()
+comment6.params=
+comment6.target=void\ act()
+numComments=7
