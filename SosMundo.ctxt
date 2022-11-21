@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SosMundo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SosMundo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=SosMundo()
+comment3.params=HB\ HG\ FB\ FG\ WB\ WG\ madeira\ pedra\ score
+comment3.target=SosMundo(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=void\ sinalSos()
+comment5.params=
+comment5.target=void\ IndicadoresB()
+comment6.params=
+comment6.target=void\ IndicadoresG()
+numComments=7
