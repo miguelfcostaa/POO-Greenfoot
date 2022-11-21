@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Calhau
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Calhau\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ caiuNoChao()
+comment3.params=
+comment3.target=void\ cair()
+comment4.params=
+comment4.target=int\ getPedra()
+comment5.params=p
+comment5.target=void\ setPedra(int)
+comment6.params=p
+comment6.target=void\ addPedra(int)
+comment7.params=p
+comment7.target=void\ removePedra(int)
+numComments=8
