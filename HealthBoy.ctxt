@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HealthBoy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Heart\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ getHealthB()
+comment2.params=hb
+comment2.target=void\ setHealthB(int)
+comment3.params=hb
+comment3.target=void\ addHealthB(int)
+comment4.params=hb
+comment4.target=void\ removeHealthB(int)
+comment5.params=
+comment5.target=HealthBoy()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

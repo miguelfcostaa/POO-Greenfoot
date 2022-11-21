@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=MyWorld()
+comment3.params=
+comment3.target=void\ IndicadoresB()
+comment4.params=
+comment4.target=void\ IndicadoresG()
+comment5.params=
+comment5.target=void\ puzzle()
+comment5.text=\r\n\ Codigo\ para\ a\ cria\u00E7\u00E3o\ do\ puzzle\ inicial.\r\n\ Criar\ todos\ os\ objectos\ presentes\ nessa\ scene.\r\n
+numComments=6

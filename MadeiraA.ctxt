@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MadeiraA
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MadeiraA\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ getMadeira()
+comment2.params=m
+comment2.target=void\ setMadeira(int)
+comment3.params=m
+comment3.target=void\ addMadeira(int)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ madeiraApanhada()
+numComments=6
